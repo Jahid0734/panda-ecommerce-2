@@ -46,5 +46,17 @@
 .card-footer{
     background-color: white;
     border-top: none;
-    margin: auto;
+    
+}
+#contact{
+    height: 300px;
+}
+#contact h6{
+    color: gray;
+}
+#contact button{
+    margin-top: 8px;
+}
+footer{
+    text-align: center;
 }
